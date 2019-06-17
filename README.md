@@ -21,9 +21,9 @@ $ ./random-wallpaper.sh
 Or my recommendation: Make the script easily executable from _any_ directory. Edit your _.bashrc_ and add an alias (e.g. randomwp or whatever you want) to run the script:   
     ```alias randomwp='<ABSOLUTE PATH>/random-wallpaper.sh'```
 
-3. In the same directory where the script is located, create a folder called "wallpapers" and paste all desired wallpapers (jpg or png) into it.
+3. Optional: Add your favorite images (jpg or png) to the directory "wallpapers". If you want, you can of course remove/replace the sample images.
 
-When you run the script, a random image from this folder is chosen and set as desktop wallpaper.
+When you run the script, a random image from this directory is chosen and set as desktop wallpaper.
 
 **To change the wallpaper (later) again, run the script again (step 2).**
 
